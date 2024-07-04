@@ -1,4 +1,4 @@
-######The pipeline architecture, including data, hyperparameter tuning, and classification algorithm  
+** ** The pipeline architecture, including data, hyperparameter tuning, and classification algorithm  
 
 The architecture of the pipeline includes various components such as data handling, adjusting hyperparameters, and selecting the classification algorithm. I use Logistic Regression algorithm from the SKLearn framework and utilize hyperDrive for optimizing hyperparameters.
 The pipeline consists of the following sequential steps:
