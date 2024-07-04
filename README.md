@@ -35,13 +35,13 @@ This is alos used to delete the cluster
 from azureml.core import Workspace
 from azureml.core.compute import ComputeTarget
 
-# Load the workspace
+ Load the workspace
 ws = Workspace.from_config()
 
-# Get the compute target
+ Get the compute target
 compute_target = ws.compute_targets['cpu-cluster-small']
 
-# Delete the compute target
+#Delete the compute target
 compute_target.delete()
 
 
