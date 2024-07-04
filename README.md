@@ -14,8 +14,6 @@ Evaluation Interval: 1 - The policy evaluates the model's performance after ever
 Slack Factor: 0.2 - The model needs to achieve at least 80% of the performance of the best metric observed so far to avoid termination.
 Delay Evaluation: 5 - The policy starts applying its rules after the first 5 iterations, allowing models a grace period to stabilize before making any termination decisions.
 In essence, starting from the sixth iteration, the policy checks each model's performance every iteration, and terminates those that fall below 80% of the best observed metric. This ensures efficient use of computational resources by focusing on more promising model configurations.
-
-
 8.	Saving the Model: Once training is complete, the model is saved . 
 Steps 1-3 and 5,6,8 is accessible through train.py and 4 and 7 are for hyperdrive part which is in udacity project.ipynb
 ### Auto ML
@@ -60,4 +58,3 @@ Utilize Bayesian Parameter Sampling for smarter hyperparameter selection and con
 ## Improvements for autoML
 Extend the experiment timeout to allow for more model experimentation, though this may increase costs. Use alternative primary metrics to better assess model performance. Increase cross-validations to reduce bias, and address the class imbalance to improve overall model accuracy.
 
-![image](https://github.com/monaejam/Udacity/assets/70153602/36e16321-d798-4efe-b83e-b06c9817a590)
