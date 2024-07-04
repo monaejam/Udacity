@@ -1,6 +1,5 @@
+The pipeline architecture, including data, hyperparameter tuning, and classification algorithm  
 
-**The pipeline architecture, including data, hyperparameter tuning, and classification algorithm  
-**
 The architecture of the pipeline includes various components such as data handling, adjusting hyperparameters, and selecting the classification algorithm. I use Logistic Regression algorithm from the SKLearn framework and utilize hyperDrive for optimizing hyperparameters.
 The pipeline consists of the following sequential steps:
 1.	Data Collection: I retrieve the dataset using TabularDatasetFactory from the source provided by udacity. 
@@ -62,4 +61,4 @@ Utilize Bayesian Parameter Sampling for smarter hyperparameter selection and con
 Improvements for autoML
 Extend the experiment timeout to allow for more model experimentation, though this may increase costs. Use alternative primary metrics to better assess model performance. Increase cross-validations to reduce bias, and address the class imbalance to improve overall model accuracy.
 
-![image](https://github.com/monaejam/Udacity/assets/70153602/82f84258-35ee-4288-aae8-bde5ada1f4f3)
+![image](https://github.com/monaejam/Udacity/assets/70153602/cb0637fe-2ce1-485d-ac49-af818e4a44c9)
