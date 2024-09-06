@@ -26,57 +26,50 @@ Before starting our experiment, we first register the dataset and configure a co
 
 ### The best model is voting ensemble and AUC weghited is 0.97 
 
-                                 <img width="540" alt="image" src="https://github.com/user-attachments/assets/60dbbb4f-4f91-41f4-921f-07036d3221b5">
+  <img width="540" alt="image" src="https://github.com/user-attachments/assets/60dbbb4f-4f91-41f4-921f-07036d3221b5">
 
 
 ### This is the endpoint after interaction with logs.py it become enabled 
 
 
-                                    <img width="540" alt="image" src="https://github.com/user-attachments/assets/fa3230e7-1ffa-41eb-a694-f9e587ec75cc">
+ <img width="540" alt="image" src="https://github.com/user-attachments/assets/fa3230e7-1ffa-41eb-a694-f9e587ec75cc">
 
 
 
 ### This is the log from the GUI
 
 
-                               <img width="540" alt="image" src="https://github.com/user-attachments/assets/3e0fd6bb-3754-45cd-a0e6-78c67f7815c0">
+   <img width="540" alt="image" src="https://github.com/user-attachments/assets/3e0fd6bb-3754-45cd-a0e6-78c67f7815c0">
 
 
  
-
-
-
-
 
 
 
 ### This is the pipeline
 
 
-                            <img width="540" alt="image" src="https://github.com/user-attachments/assets/e21c0498-13cd-4b2c-80d7-f37357f853a2">
+  <img width="540" alt="image" src="https://github.com/user-attachments/assets/e21c0498-13cd-4b2c-80d7-f37357f853a2">
 
  
 ### When it gets successful 
 
 
-                           <img width="540" alt="image" src="https://github.com/user-attachments/assets/d2e355e5-66d2-4eb4-bc36-937fe7a43c91">
+  <img width="540" alt="image" src="https://github.com/user-attachments/assets/d2e355e5-66d2-4eb4-bc36-937fe7a43c91">
 
  
  ### This is when we interact with the endpoint using the primary key and and authentication key , the name of the job is aciservice the same as above . Also this is the graph
  
-                           <img width="540" alt="image" src="https://github.com/user-attachments/assets/80b2021b-b6b2-44c8-bb65-ef94df5ca482">
+   <img width="540" alt="image" src="https://github.com/user-attachments/assets/80b2021b-b6b2-44c8-bb65-ef94df5ca482">
 
                            
                            
-                           <img width="540" alt="image" src="https://github.com/user-attachments/assets/3ef7d4d9-f004-4031-8007-f7cac67b331f">
+  <img width="540" alt="image" src="https://github.com/user-attachments/assets/3ef7d4d9-f004-4031-8007-f7cac67b331f">
 
 
                           
                           
-                          <img width="540" alt="image" src="https://github.com/user-attachments/assets/d3f35403-0955-4b7f-9b21-6965f212c1c7">
-
-
-
+   <img width="540" alt="image" src="https://github.com/user-attachments/assets/d3f35403-0955-4b7f-9b21-6965f212c1c7">
 
 
 
