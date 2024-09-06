@@ -4,7 +4,7 @@
 first we do authentication then we use our auto ml model then we deploy it then when enable the logging then we consume the model endpoint then we create a pipeline and document everything
 
 
-                          <![image](https://github.com/user-attachments/assets/d52b5504-6414-4b87-82ca-d3b5d5fdffee)>
+  <![image](https://github.com/user-attachments/assets/d52b5504-6414-4b87-82ca-d3b5d5fdffee)>
 
 
 Before starting our experiment, we first register the dataset and configure a compute cluster for training. Automated Machine Learning (AutoML) is used to find the best classification model. The best model is then deployed as an HTTP REST endpoint using Azure Container Instances with authentication enabled. Application Insights is enabled for the deployed model using the logs.py script. We interact with the deployed model's documentation using Swagger. Finally, the model is consumed using the endpoint.py script.
@@ -12,7 +12,7 @@ Before starting our experiment, we first register the dataset and configure a co
 ### The dataset registered: 
 
 
-                         <img width="540" alt="image" src="https://github.com/user-attachments/assets/e1652c20-6fa6-4a1f-895f-dd1a1ec17b1b">
+  <img width="540" alt="image" src="https://github.com/user-attachments/assets/e1652c20-6fa6-4a1f-895f-dd1a1ec17b1b">
 
 
 
@@ -20,7 +20,7 @@ Before starting our experiment, we first register the dataset and configure a co
 
 
   
-                               <img width="540" alt="image" src="https://github.com/user-attachments/assets/0507c186-d1b7-45ff-94d3-f8818a7cd574">
+  <img width="540" alt="image" src="https://github.com/user-attachments/assets/0507c186-d1b7-45ff-94d3-f8818a7cd574">
 
 
 
