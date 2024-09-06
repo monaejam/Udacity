@@ -77,19 +77,19 @@ Before starting our experiment, we first register the dataset and configure a co
 
 
 
-                              <img width="540" alt="image" src="https://github.com/user-attachments/assets/7e4165fc-9dbb-4827-8b69-4da1527431bf">
+  <img width="540" alt="image" src="https://github.com/user-attachments/assets/7e4165fc-9dbb-4827-8b69-4da1527431bf">
 
 
 
 ### The trace of working with the model 
 
-                             <img width="540" alt="image" src="https://github.com/user-attachments/assets/f1dd21e8-f9a2-44c2-b684-74dfc5736899">
+   <img width="540" alt="image" src="https://github.com/user-attachments/assets/f1dd21e8-f9a2-44c2-b684-74dfc5736899">
 
 
  
 ### Also using swagger to interact with the model 
 
-                            <img width="540" alt="image" src="https://github.com/user-attachments/assets/29214f33-1186-4b04-a4de-714996883b9a">
+ ### <img width="540" alt="image" src="https://github.com/user-attachments/assets/29214f33-1186-4b04-a4de-714996883b9a">
 
 
 
