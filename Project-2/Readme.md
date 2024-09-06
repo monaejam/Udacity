@@ -1,5 +1,5 @@
 
-###Architectural Diagram
+###Architectural Diagram###
 
 first we do authentication then we use our auto ml model then we deploy it then when enable the logging then we consume the model endpoint then we create a pipeline and 
 
