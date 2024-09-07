@@ -47,7 +47,8 @@ Once completed, the status will change from running to complete
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/78de7886-0333-40b3-9c21-ca9519f09252">
 
 
-### The image below shows few other metrics for the Best Model (Voting Ensemble)
+### The image below shows few other metrics for the Best Model (Voting Ensemble) 
+such as precision and F1 score
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/30bac166-0cac-4370-a077-a6f45bf521db">
 
