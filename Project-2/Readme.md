@@ -54,6 +54,7 @@ such as precision and F1 score
 
 
 ### The pipeline is created and is running 
+pipeline is used to orchestrate and automate machine learning workflows. It allows us to define, schedule, and execute complex processes consisting of multiple steps, such as data preparation, training, evaluation, and deployment of machine learning models.
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/c0550cb8-2200-460e-9997-ae3cbe80c8f9">
 
@@ -64,7 +65,7 @@ such as precision and F1 score
 
 
 ### After the completion status of pipeline changed to completion :
- pipeline is used to orchestrate and automate machine learning workflows. It allows us to define, schedule, and execute complex processes consisting of multiple steps, such as data preparation, training, evaluation, and deployment of machine learning models.
+ 
 
 
 
