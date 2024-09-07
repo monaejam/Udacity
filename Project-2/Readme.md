@@ -97,7 +97,7 @@ Once an AutoML run has trained and identified the best model, deploying that mod
 
 
 
-### Finishing the pipeline in the endpoint shows
+### Finishing the pipeline in the endpoint shows that the job is completed 
 
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/bec24fe7-4ff5-43a5-91e8-56bef8be11d7">
@@ -112,6 +112,9 @@ Once an AutoML run has trained and identified the best model, deploying that mod
 
 
 ###  Run completed in above and details in following pic
+Run Details Widget in the Jupyter Notebook provides details such as run logs, duration, steps etc.
+
+
 
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/c734bead-ebff-407e-a84c-59066ed21e1f">
