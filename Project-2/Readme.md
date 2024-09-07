@@ -3,7 +3,8 @@ Before starting our experiment, we first register the dataset and configure a co
 <img width="530" alt="image" src="https://github.com/user-attachments/assets/bfa403cd-a390-418e-8dae-15bbd0537145">
 
 
-
+automl.ipynb : It is the notebook file for the AutoML.
+endpoint.py : This is the python script  used to consume the produced endpoint.
 ### Dataset being created :
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/e8e7970a-a525-4fa9-b976-284e1d916034">
 
@@ -19,6 +20,7 @@ it is using our dataset created in previous step
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/7e5c0d7d-3b4b-4feb-9151-4348f9dd19fe">
 
 ### It is running now and the primary metric is AUC weighted 
+Once completed, the status will change from running to complete
 
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/20e693ff-786e-4df5-af55-413b14e16926">
