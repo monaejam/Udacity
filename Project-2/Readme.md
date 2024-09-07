@@ -11,20 +11,28 @@ The run created not active yet
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/841597f3-712f-4bc4-b9d7-9c12a60daba4">
 
-### It is setting up the run to be active
+### The auto Ml run  is setting up  to be activated 
 
 
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/7e5c0d7d-3b4b-4feb-9151-4348f9dd19fe">
 
-### It is running now!
+### It is running now and the primary metric is AUC weighted 
 
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/20e693ff-786e-4df5-af55-413b14e16926">
 
 
 
-### It has been completed after   32 min
+### It has been completed after   32 min These are what I used in the AutoMl notebook
+
+    task='classification',
+    primary_metric='accuracy',
+    training_data=dataset,  
+    label_column_name='y',
+    compute_target=compute_target
+
+
 
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/20a6f52a-938f-4bd7-bbf2-291bb3883f94">
@@ -46,12 +54,13 @@ The run created not active yet
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/c0550cb8-2200-460e-9997-ae3cbe80c8f9">
 
 
-### Here is the details :
+### Here is the details of the run :
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/9ec9a8eb-dc88-44a0-9412-69a22c8fe7e6">
 
 
 ### After the completion status of pipeline changed to completion :
+ pipeline is used to orchestrate and automate machine learning workflows. It allows us to define, schedule, and execute complex processes consisting of multiple steps, such as data preparation, training, evaluation, and deployment of machine learning models.
 
 
 
@@ -63,10 +72,13 @@ The run created not active yet
 
 ### We did not enable application insights at model deployment, hence a status of False is shown!
 
+it means  monitoring and telemetry service, is not actively collecting data for the resource.
+
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/3ed48d7c-e7dd-43f8-944c-2f01b6c5ee7d">
 
 
 ### Here is the trace of running logs.py in terminal and the application insight become true
+which means we  can send custom telemetry or logging data to Application Insights or another service
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/fa3bc3b2-b2e2-45d1-bc5e-6bd47786a85d">
 
@@ -78,7 +90,7 @@ The run created not active yet
 
 
 ### One more time  we can see the pipeline is created  and is active
-
+Once an AutoML run has trained and identified the best model, deploying that model into a production environment can be automated and scaled using Azure ML pipelines. which we did in this step 
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/fbbb7b00-93ca-4d0d-a58d-281b327f4976">
 
@@ -106,6 +118,7 @@ The run created not active yet
 
 
 ### And finally the model is healthy and deployed !
+The model was deployed to an ACI (Azure Container Instance)
 
 
 
@@ -113,6 +126,7 @@ The run created not active yet
 
 
 ### And here is consuming the endpoint  we can see yes and no !
+we can use terminal to interact with the model with the endpoint.py to test it 
 
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/6cd87ed9-2e4a-4dbf-9541-74973093b0bf">
@@ -121,6 +135,9 @@ The run created not active yet
 
 
 ### Also using swagger to interact with the model !
+ Swagger is primarily used to generate interactive API documentation. 
+This makes it easy for developers and API consumers to understand how to interact with the API.
+
 
 
 
