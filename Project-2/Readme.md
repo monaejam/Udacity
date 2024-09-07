@@ -12,6 +12,7 @@ The run created not active yet
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/841597f3-712f-4bc4-b9d7-9c12a60daba4">
 
 ### The auto Ml run  is setting up  to be activated 
+it is using our dataset created in previous step
 
 
 
