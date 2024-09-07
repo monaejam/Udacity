@@ -4,51 +4,54 @@ Before starting our experiment, we first register the dataset and configure a co
 
 
 
-Dataset being created :
+### Dataset being created :
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/e8e7970a-a525-4fa9-b976-284e1d916034">
 
 The run created not active yet 
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/841597f3-712f-4bc4-b9d7-9c12a60daba4">
 
-It is setting up the run to be active
+### It is setting up the run to be active
 
 
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/7e5c0d7d-3b4b-4feb-9151-4348f9dd19fe">
-It is running now!
+
+### It is running now!
 
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/20e693ff-786e-4df5-af55-413b14e16926">
 
 
 
-It has been completed after   32 min
+### It has been completed after   32 min
 
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/20a6f52a-938f-4bd7-bbf2-291bb3883f94">
 
 
-Voting Ensemble was found to be the best model with an accuracy of 0.9478
+#### Voting Ensemble was found to be the best model with an accuracy of 0.9478
+
+
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/78de7886-0333-40b3-9c21-ca9519f09252">
 
 
-The image below shows few other metrics for the Best Model (Voting Ensemble)
+### The image below shows few other metrics for the Best Model (Voting Ensemble)
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/30bac166-0cac-4370-a077-a6f45bf521db">
 
 
-The pipeline is created and is running 
+### The pipeline is created and is running 
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/c0550cb8-2200-460e-9997-ae3cbe80c8f9">
 
 
-Here is the details :
+### Here is the details :
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/9ec9a8eb-dc88-44a0-9412-69a22c8fe7e6">
 
 
-After the completion status of pipeline changed to completion :
+### After the completion status of pipeline changed to completion :
 
 
 
@@ -58,26 +61,30 @@ After the completion status of pipeline changed to completion :
 
 
 
-We did not enable application insights at model deployment, hence a status of False is shown!
+### We did not enable application insights at model deployment, hence a status of False is shown!
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/3ed48d7c-e7dd-43f8-944c-2f01b6c5ee7d">
 
 
-Here is the trace of running logs.py in terminal and the application insight become true
+### Here is the trace of running logs.py in terminal and the application insight become true
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/fa3bc3b2-b2e2-45d1-bc5e-6bd47786a85d">
+
+
+
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/c4e8ac6e-adb9-43c6-9091-28d1d031cdf6">
 
 
 
-One more time  we can see the pipeline is created  and is active
+### One more time  we can see the pipeline is created  and is active
+
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/fbbb7b00-93ca-4d0d-a58d-281b327f4976">
 
 
 
-Finishing the pipeline in the endpoint shows
+### Finishing the pipeline in the endpoint shows
 
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/bec24fe7-4ff5-43a5-91e8-56bef8be11d7">
@@ -91,28 +98,29 @@ Finishing the pipeline in the endpoint shows
 
 
 
-Run completed in above and details in following pic
+###  Run completed in above and details in following pic
 
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/c734bead-ebff-407e-a84c-59066ed21e1f">
 
 
 
-And finally the model is healthy and deployed !
+### And finally the model is healthy and deployed !
 
 
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/27f6c99f-9faf-49d6-843e-bc380397aa66">
 
 
-And here is consuming the endpoint  we can see yes and no !
+### And here is consuming the endpoint  we can see yes and no !
 
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/6cd87ed9-2e4a-4dbf-9541-74973093b0bf">
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/776f4b4c-1e97-43c8-9c73-3ed1164b0bec">
 
-Also using swagger to interact with the model !
+
+### Also using swagger to interact with the model !
 
 
 
@@ -120,12 +128,12 @@ Also using swagger to interact with the model !
 
 
 
-Link to the video 
+### Link to the video 
 
 
 https://www.loom.com/share/5a9e1aa78c404662b8b74e6b55092716
 
-Future recommendation : 
+### Future recommendation : 
 •  Implement Deep Learning: This approach could potentially boost model performance. However, it would necessitate scaling up both the dataset and the compute resources to handle the increased complexity and ensure faster training times.
 •  Mitigate Class Imbalance: The dataset is significantly imbalanced, which can cause the model to favor the majority class. Applying techniques to balance the data could lead to more accurate and fair predictions.
 
