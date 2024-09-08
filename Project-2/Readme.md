@@ -191,8 +191,9 @@ This makes it easy for developers and API consumers to understand how to interac
 
 ### Link to the video 
 
+https://www.loom.com/share/d977539f5b7e432bbdf0e433fb3693b6
 
-https://www.loom.com/share/5a9e1aa78c404662b8b74e6b55092716
+
 
 ### Future recommendation : 
 •  Implement Deep Learning: This approach could potentially boost model performance. However, it would necessitate scaling up both the dataset and the compute resources to handle the increased complexity and ensure faster training times.
