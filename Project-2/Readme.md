@@ -119,7 +119,21 @@ as a side note we can see puplished pipeline from the endpoint and the diagram a
 <img width="1198" alt="Screenshot 2024-09-07 at 8 01 22 PM" src="https://github.com/user-attachments/assets/10776d9b-774b-418e-83e0-6930cd6f0481">
 
 
+
+Benefits:
+Automation: The ability to trigger the pipeline programmatically allows for full automation of machine learning workflows (e.g., retraining models when new data arrives).
+Reusability: Published pipelines can be reused and triggered from any external application, making them highly flexible for production scenarios.
+
+
+
+
 <img width="1216" alt="Screenshot 2024-09-07 at 7 59 41 PM" src="https://github.com/user-attachments/assets/6ab5cbd5-4bcf-424d-a37d-a68e55b00407">
+
+
+
+
+
+
 
 
 <img width="1189" alt="Screenshot 2024-09-07 at 8 01 32 PM" src="https://github.com/user-attachments/assets/79d5ee4c-03b8-4f91-a19b-743fe4f17223">
