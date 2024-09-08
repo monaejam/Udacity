@@ -115,6 +115,28 @@ Once an AutoML run has trained and identified the best model, deploying that mod
 
 
 
+as a side note we can see puplished pipeline from the endpoint and the diagram as well 
+<img width="1198" alt="Screenshot 2024-09-07 at 8 01 22 PM" src="https://github.com/user-attachments/assets/10776d9b-774b-418e-83e0-6930cd6f0481">
+
+
+<img width="1216" alt="Screenshot 2024-09-07 at 7 59 41 PM" src="https://github.com/user-attachments/assets/6ab5cbd5-4bcf-424d-a37d-a68e55b00407">
+
+
+<img width="1189" alt="Screenshot 2024-09-07 at 8 01 32 PM" src="https://github.com/user-attachments/assets/79d5ee4c-03b8-4f91-a19b-743fe4f17223">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###  Run completed in above and details in following pic
 Run Details Widget in the Jupyter Notebook provides details such as run logs, duration, steps etc.
 
@@ -165,6 +187,10 @@ https://www.loom.com/share/5a9e1aa78c404662b8b74e6b55092716
 
 PIPEline
 Add a CI/CD pipeline to interact with the Published Pipeline and trigger AutoML training run on scheduled or adhoc basis
+
+
+
+
 
 
 
