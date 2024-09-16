@@ -1,4 +1,4 @@
-<img width="540" alt="image" src="https://github.com/user-attachments/assets/230c3a82-b490-40a7-a1f0-22dc210ade5e">## An overview of the project
+## overview of the project
 This capstone project for the "Machine Learning Engineer for Microsoft Azure" Udacity Nanodegree involves selecting a public external dataset to train a model using two approaches: Automated Machine Learning (AutoML) and Hyperdrive. After comparing the performance of these methods, the best model will be deployed. The deployed model's endpoint will then be used to make predictions and answer relevant queries.
 
 
@@ -128,6 +128,10 @@ The deployed model setup involves the following steps:
 In summary, the model is deployed as a secure, monitored web service using ACI, with resource configurations and monitoring tools like Application Insights to track its performance.(the rest of the details will be in the screenshot setion)
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/ab338a2a-2133-4e49-a3b9-827f95fccbe3">
+
+
+<img width="540" alt="image" src="https://github.com/user-attachments/assets/230c3a82-b490-40a7-a1f0-22dc210ade5e">## 
+
 
 
 
