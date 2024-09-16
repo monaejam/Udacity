@@ -1,4 +1,4 @@
-•	An overview of the project
+##An overview of the project##
 This capstone project for the "Machine Learning Engineer for Microsoft Azure" Udacity Nanodegree involves selecting a public external dataset to train a model using two approaches: Automated Machine Learning (AutoML) and Hyperdrive. After comparing the performance of these methods, the best model will be deployed. The deployed model's endpoint will then be used to make predictions and answer relevant queries.
 
 
