@@ -130,9 +130,6 @@ In summary, the model is deployed as a secure, monitored web service using ACI, 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/ab338a2a-2133-4e49-a3b9-827f95fccbe3">
 
 
-<img width="540" alt="image" src="https://github.com/user-attachments/assets/230c3a82-b490-40a7-a1f0-22dc210ade5e">## 
-
-
 
 
 
@@ -152,29 +149,43 @@ run.get_children(): Retrieves all the individual runs or child runs of the main 
 For loop: Iterates over each child run, printing a separator ('------') and details of each run to track their progress and results.
 
 In summary, the code displays real-time updates of the AutoML experiment and prints the details of each individual run.
+
+
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/a01832f7-fbc3-4496-8666-f0cd06c6829d">
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/5677f506-3a94-4dec-8003-4d906b06f1d2">
 
 
 also we can see the best run metrics :
+
+
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/77f04a08-7361-454b-9e65-bf3d995f3f97">
 
 the best model run ID once we register it 
+
+
 ![image](https://github.com/user-attachments/assets/e09d2d3a-ff34-4307-b412-3d4c117b27c8)
 
 
 the run details from hyperparameter tuning :
+
+
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/f670b98b-3b9e-4342-8f34-966cd46cfbed">
 
 and we can see its metrics:
+
+
 ![image](https://github.com/user-attachments/assets/4f63969b-915a-4d1b-97f6-335ccabec776)
 
 using cpi-cluster for the tunning
 
+
+
 ![image](https://github.com/user-attachments/assets/6295acdb-997e-4d13-a092-51c1fbeab1df)
 
 we can see the parallel runs:
+
+
 ![image](https://github.com/user-attachments/assets/06a81b73-2f36-4548-81ef-08f7a312e43b)
 
 
